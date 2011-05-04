@@ -12,28 +12,28 @@ Current Version: 0.0.1 Early Beta (Not public yet)
 
 
 
-Wi-fi
+*Wi-fi
 
-Touchscreen
+*Touchscreen
 
-Sound
+*Sound
 
-G-sensor
+*G-sensor
 
-Internal Flash
+*Internal Flash
 
-SD Card
+*SD Card
 
-USB Host Mode
+*USB Host Mode
 
-LED
+*LED
 
-Battery driver
+*Battery driver
 
-Media playing
+*Media playing
 
 
 
 *Not working*
 
-N/A
+*N/A
