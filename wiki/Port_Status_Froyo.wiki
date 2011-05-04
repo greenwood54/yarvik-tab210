@@ -10,7 +10,7 @@ Current Version: 0.0.1 Early Beta (Not public yet)
 
 Working
 
-
+--------------------------------------------------
 
 Wi-fi
 
@@ -32,6 +32,7 @@ Battery driver
 
 Media playing
 
+--------------------------------------------------
 
 Not working
 
