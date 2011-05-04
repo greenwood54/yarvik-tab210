@@ -8,7 +8,7 @@ Current Version: 0.0.1 Early Beta (Not public yet)
 
 = Details =
 
-Working
+*Working*
 
 --------------------------------------------------
 
@@ -34,6 +34,6 @@ Media playing
 
 --------------------------------------------------
 
-Not working
+*Not working*
 
 N/A
